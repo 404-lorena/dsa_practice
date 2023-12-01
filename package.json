@@ -1,0 +1,23 @@
+{
+  "name": "dsa_practice",
+  "version": "1.0.0",
+  "description": "This is a problem set for our Data Structures & Algorithms practice",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404-lorena/dsa_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/404-lorena/dsa_practice/issues"
+  },
+  "homepage": "https://github.com/404-lorena/dsa_practice#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

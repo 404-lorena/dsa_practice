@@ -29,3 +29,9 @@ var canConstruct = function(ransomNote, magazine) {
 
 // Leet Code: https://leetcode.com/problems/ransom-note/submissions/
 // Eliana's beautiful mind solution
+
+// https://www.w3schools.com/jsref/jsref_indexof.asp
+// https://gist.github.com/ahmet-cetinkaya/c9e79784c150c932b647e1dec90a2154
+// https://www.youtube.com/watch?v=aZVCYwCxUzc
+// https://www.youtube.com/watch?v=-fGeELFm0vE 
+// https://rishabh1403.com/posts/coding/leetcode/2020/05/leetcode-ransom-note
