@@ -1,4 +1,4 @@
-# dsa_practice
+# [DSA Practice](https://docs.google.com/spreadsheets/d/1iM4uaFzcKByouQhGLRD6puOAUMfhYz9vzWDerWqSnKk/edit#gid=0)
 This is a problem set for our Data Structures & Algorithms practice
 
 ### Directions
