@@ -91,7 +91,7 @@ Big O Analysis
 <br/>
 
 
-![Big O notation chart](./big_o-complexity_chart.png)
+![Big O notation chart](./Charts/big_o-complexity_chart.png)
 
 ### O(1) - Constant time complexity
 - Constant time algorithms will always take the same amount of time to be executed. The execution time of these algorithm is independent of the size of the input
@@ -158,13 +158,13 @@ Big O Analysis
 - 
 - 
 - 
-![Common DS operations](./big_o-common_dso.png)
+![Common DS operations](./Charts/big_o-common_dso.png)
 
 ## Array Sorting Algorithms
 - 
 - 
 - 
-![Array Sorting Algorithms](./big_o-array_sorting.png)
+![Array Sorting Algorithms](./Charts/big_o-array_sorting.png)
 
 
 # Resources
