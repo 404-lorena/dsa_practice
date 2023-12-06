@@ -63,3 +63,4 @@ Objectives:
 
 # Resources
 - [Most important type of Algorithms by Geeks for Geeks](https://www.geeksforgeeks.org/most-important-type-of-algorithms/)
+- P[roblem Solving Approaches](https://drive.google.com/file/d/1FADqam7PWt2tqp1DW0j0uODTJ50Jr7AO/view)
