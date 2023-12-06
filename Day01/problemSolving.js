@@ -59,4 +59,12 @@ function permuteToPalindrome(string){
 
 console.log(permuteToPalindrome("racecar"));
 
+// 0(n) loop
+// 2n loop (n = 1) 
+// Goes through once - count the occurance of each character and then tally
+permuteToPalindrome("a");
+
+// o(n) loop
+// 2n loop (10 times though cause n is 10)
+permuteToPalindrome("abcdefghij")
 module.exports = permuteToPalindrome;
