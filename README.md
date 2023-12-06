@@ -17,8 +17,8 @@ Each project submission must have at least four seperate commits
 * Three: Pseudocode your plan in comments
 * Four (and above): Commit your code as you go until you solution is complete
 
-### Topics
-* Algorithmic Problem Solving
+### [Topics](https://github.com/MultiverseLearningProducts/google-swe-2/tree/main/electives)
+* [Algorithmic Problem Solving](https://drive.google.com/file/d/1FADqam7PWt2tqp1DW0j0uODTJ50Jr7AO/view)
 * Big O
 * Problem Solving Patterns
 * Stacks and Queues
